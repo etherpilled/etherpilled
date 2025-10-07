@@ -31,19 +31,18 @@
 ## 🚀 About Me
 
 - 🧑‍💻 **Core developer at [Infinite Trading Protocol](https://github.com/infinite-trading-protocol)**, driving the development of decentralized trading infrastructure.
-- 🏗️ Specializing in modern frontend frameworks, scalable backend services, and blockchain/Web3 integrations.
+- 🏗️ Specializing in ML/AI, API's, Databases, and modern frontend frameworks, scalable backend services, and blockchain/Web3 integrations.
 - 🔎 Passionate about open-source, clean architecture, and delivering seamless user experiences.
-- 📊 Data science enthusiast leveraging Python and R for robust analytics and automation.
+- 📊 Data science enthusiast leveraging Python, Bash and R for robust analytics and automation.
 
 ---
 
 ## 🏆 Achievements & Highlights
 
-- 🚀 Led core smart contract and frontend work at Infinite Trading Protocol.
+- 🚀 Led core backend, smart contract and frontend work at Infinite Trading Protocol.
 - 💡 Built and maintained high-performance apps with Next.js, TypeScript, and React.
 - ☁️ Deployed scalable serverless solutions on Vercel.
-- ⚡ Integrated advanced analytics using Python, R, and Plumber.
-- 🔒 Contributed to secure, robust Web3 dApps and libraries.
+- ⚡ Built advanced APIs using Python, R, Express and Plumber.
 
 ---
 
@@ -51,8 +50,6 @@
 
 - 🌲 [linktr.ee/etherpilled](https://linktr.ee/etherpilled)
 - 🐦 [@etherpilled on Twitter/X](https://twitter.com/etherpilled)
-- 💼 [LinkedIn](https://www.linkedin.com/in/etherpilled/) <!-- Add if available -->
-- 📝 [Blog/Portfolio](https://yourwebsite.com) <!-- Replace with your site if any -->
 
 ---
 
