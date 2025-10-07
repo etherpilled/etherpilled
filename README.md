@@ -15,7 +15,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/353498/vercel-icon.svg" alt="Vercel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -24,7 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web3js/web3js-original.svg" alt="Web3.js" width="40" height="40"/>
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=026" alt="Ethereum" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/51124667?s=200&v=4" alt="Plumber R" width="40" height="40"/>
 </p>
 
@@ -36,15 +34,6 @@
 - 🏗️ Specializing in modern frontend frameworks, scalable backend services, and blockchain/Web3 integrations.
 - 🔎 Passionate about open-source, clean architecture, and delivering seamless user experiences.
 - 📊 Data science enthusiast leveraging Python and R for robust analytics and automation.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=etherpilled&show_icons=true&theme=radical&count_private=true" alt="etherpilled's github stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etherpilled&layout=compact&theme=radical" alt="Top languages" height="165"/>
-</p>
 
 ---
 
