@@ -24,6 +24,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web3js/web3js-original.svg" alt="Web3.js" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/51124667?s=200&v=4" alt="Plumber R" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ethers-io/ethers.js/master/docs/images/ethers.png" alt="etherJS" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="OpenAI" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/45487747?s=200&v=4" alt="N8n" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="Matlab" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wolfram/wolfram-original.svg" alt="Mathematica" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/647672?s=200&v=4" alt="SageMath" width="40" height="40"/>
 </p>
 
 ---
