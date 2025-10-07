@@ -1,6 +1,4 @@
 <!-- Profile README for etherpilled -->
-
-<h1 align="center">Hey, I'm etherpilled 👋</h1>
 <p align="center">
   <b>Core Developer @ Infinite Trading Protocol</b> <br/>
   Building innovative, scalable DeFi solutions and modern web applications.
